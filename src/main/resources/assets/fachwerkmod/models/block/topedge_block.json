@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "fachwerkmod:block/blank",
+        "south": "fachwerkmod:block/blank",
+        "west": "fachwerkmod:block/toprightedge",
+        "east": "fachwerkmod:block/blank",
+        "north": "fachwerkmod:block/topleftedge",
+        "down": "fachwerkmod:block/blank",
+        "particle": "fachwerkmod:block/blank"
+    }
+}

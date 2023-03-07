@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "fachwerkmod:block/mannrechtsframe_block" },
+        "facing=north": { "model": "fachwerkmod:block/mannrechtsframe_block", "y": 180 },
+        "facing=east":  { "model": "fachwerkmod:block/mannrechtsframe_block", "y": 270 },
+        "facing=west":  { "model": "fachwerkmod:block/mannrechtsframe_block", "y": 90 },
+        "facing=up":  { "model": "fachwerkmod:block/mannrechtsframe_block" },
+        "facing=down":  { "model": "fachwerkmod:block/mannrechtsframe_block" }
+    }
+}

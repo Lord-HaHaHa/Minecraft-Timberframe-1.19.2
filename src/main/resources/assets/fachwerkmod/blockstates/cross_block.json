@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "fachwerkmod:block/cross_block" },
+        "facing=north": { "model": "fachwerkmod:block/cross_block", "y": 180 },
+        "facing=east":  { "model": "fachwerkmod:block/cross_block", "y": 270 },
+        "facing=west":  { "model": "fachwerkmod:block/cross_block", "y": 90 },
+        "facing=up":  { "model": "fachwerkmod:block/cross_block", "x": 90  },
+        "facing=down":  { "model": "fachwerkmod:block/cross_block", "x": 180  }
+    }
+}

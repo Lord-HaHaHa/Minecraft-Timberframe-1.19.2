@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "fachwerkmod:block/downlframe_block" },
+        "facing=north": { "model": "fachwerkmod:block/downlframe_block", "y": 180 },
+        "facing=east":  { "model": "fachwerkmod:block/downlframe_block", "y": 270 },
+        "facing=west":  { "model": "fachwerkmod:block/downlframe_block", "y": 90 },
+        "facing=up":  { "model": "fachwerkmod:block/downlframe_block" },
+        "facing=down":  { "model": "fachwerkmod:block/downlframe_block" }
+    }
+}
