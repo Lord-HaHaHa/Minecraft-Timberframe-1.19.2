@@ -1,11 +1,11 @@
 
 {
     "variants": {
-        "facing=south": { "model": "timberframemod:block/giebelright_block" },
-        "facing=north": { "model": "timberframemod:block/giebelright_block", "y": 180 },
-        "facing=east":  { "model": "timberframemod:block/giebelright_block", "y": 270 },
-        "facing=west":  { "model": "timberframemod:block/giebelright_block", "y": 90 },
-        "facing=up":  { "model": "timberframemod:block/giebelright_block" },
-        "facing=down":  { "model": "timberframemod:block/giebelright_block" }
+        "facing=south": { "model": "timberframemod:block/pedimentright_block" },
+        "facing=north": { "model": "timberframemod:block/pedimentright_block", "y": 180 },
+        "facing=east":  { "model": "timberframemod:block/pedimentright_block", "y": 270 },
+        "facing=west":  { "model": "timberframemod:block/pedimentright_block", "y": 90 },
+        "facing=up":  { "model": "timberframemod:block/pedimentright_block" },
+        "facing=down":  { "model": "timberframemod:block/pedimentright_block" }
     }
 }

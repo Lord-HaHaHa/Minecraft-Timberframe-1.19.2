@@ -1,6 +1,7 @@
 package de.lordhahaha.timberframemod.block;
 
 import de.lordhahaha.timberframemod.Timberframemod;
+import de.lordhahaha.timberframemod.block.custom.RotationalBlock;
 import de.lordhahaha.timberframemod.item.ModCreativeModeTab;
 import de.lordhahaha.timberframemod.item.ModItems;
 import net.minecraft.world.item.BlockItem;
