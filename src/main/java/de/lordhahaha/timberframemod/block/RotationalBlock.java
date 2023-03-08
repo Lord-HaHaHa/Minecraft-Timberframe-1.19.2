@@ -9,10 +9,10 @@ import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.DirectionProperty;
 import org.jetbrains.annotations.Nullable;
 
-public class BasicBlock extends Block{
+public class RotationalBlock extends Block{
 
     public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
-    public BasicBlock(Properties properties) {
+    public RotationalBlock(Properties properties) {
         super(properties);
         this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
     }
