@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "x": {
+      "item": "minecraft:stick"
+    },
+    "o": {
+      "item": "timberframemod:wattle_daub"
+    }
+  },
+  "pattern": [
+    "oxx",
+    "oxx",
+    "oxx"
+  ],
+  "result": {
+    "count": 4,
+    "item": "timberframemod:shutterright_block"
+  }
+}

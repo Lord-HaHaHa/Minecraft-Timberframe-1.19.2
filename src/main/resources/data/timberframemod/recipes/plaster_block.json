@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "o": {
+      "item": "timberframemod:wattle_daub"
+    }
+  },
+  "pattern": [
+    "ooo",
+    "ooo",
+    "ooo"
+  ],
+  "result": {
+    "count": 4,
+    "item": "timberframemod:plaster_block"
+  }
+}

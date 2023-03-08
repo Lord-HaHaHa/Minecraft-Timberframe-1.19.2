@@ -24,7 +24,7 @@ public class ModBlocks {
     // Register all new blocks
     public static final RegistryObject<Block> BASIC_BLOCK = registerBlock("basic_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> CROSS_BLOCK = registerBlock("cross_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
-    public static final RegistryObject<Block> DOUBLESSTRAIGHT_BLOCK = registerBlock("doublesstraight_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
+    public static final RegistryObject<Block> DOUBLESSTRAIGHT_BLOCK = registerBlock("doublestraight_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> DOWN_BLOCK = registerBlock("down_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> DOWN_L_FRAME_BLOCK = registerBlock("downlframe_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> DOWN_R_FRAME_BLOCK = registerBlock("downrframe_block", () -> new RotationalBlock(BlockBehaviour.Properties.of(Material.WOOD)) {}, ModCreativeModeTab.TIMBERFRAME_TAB);

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt",
+      "count": 3
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 3
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "timberframemod:wattle_daub"
+  }
+}
