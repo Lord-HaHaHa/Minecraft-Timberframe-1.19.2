@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "enties": [
+        {
+          "type": "minecraft:item",
+          "name": "timberframemod:manleft_block"
+        }
+      ]
+    }
+  ]
+}
