@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "timberframemod:block/blank",
+        "south": "timberframemod:block/blank",
+        "west": "timberframemod:block/edgeleft",
+        "east": "timberframemod:block/blank",
+        "north": "timberframemod:block/edgeright",
+        "down": "timberframemod:block/blank",
+        "particle": "timberframemod:block/blank"
+    }
+}

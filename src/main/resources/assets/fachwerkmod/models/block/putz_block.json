@@ -1,8 +1,0 @@
-{
-    "parent": "block/orientable",
-    "textures": {
-        "top": "fachwerkmod:block/putz",
-        "front": "fachwerkmod:block/putz",
-        "side": "fachwerkmod:block/putz"
-    }
-}

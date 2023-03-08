@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "timberframemod:block/blank",
+        "front": "timberframemod:block/blank",
+        "side": "timberframemod:block/blank",
+        "back": "timberframemod:block/blank"
+    }
+}
