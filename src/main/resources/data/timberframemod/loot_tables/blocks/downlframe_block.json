@@ -3,10 +3,10 @@
   "pools": [
     {
       "rolls": 1,
-      "enties": [
+      "entries": [
         {
           "type": "minecraft:item",
-          "name": "timberframemod:hexaframe_block"
+          "name": "timberframemod:downlframe_block"
         }
       ]
     }
