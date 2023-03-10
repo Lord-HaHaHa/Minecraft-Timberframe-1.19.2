@@ -3,6 +3,7 @@ package de.lordhahaha.timberframemod;
 import com.mojang.logging.LogUtils;
 import de.lordhahaha.timberframemod.block.ModBlocks;
 import de.lordhahaha.timberframemod.item.ModItems;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,23 +27,9 @@ public class Timberframemod
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
-        modEventBus.addListener(this::commonSetup);
-
         MinecraftForge.EVENT_BUS.register(this);
     }
-
-    private void commonSetup(final FMLCommonSetupEvent event)
-    {
-
-    }
-
-    @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
-    public static class ClientModEvents
-    {
-        @SubscribeEvent
-        public static void onClientSetup(FMLClientSetupEvent event)
-        {
-
-        }
+    public static ResourceLocation asResource(String path) {
+        return new ResourceLocation(MOD_ID, path);
     }
 }
