@@ -40,8 +40,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> DOWN_LEFT_BLOCK = registerBlock("downl_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> DOWN_RIGHT_BLOCK = registerBlock("downr_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> EDGE_BLOCK = registerBlock("edge_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
-    public static final RegistryObject<Block> TOPEDGE_BLOCK = registerBlock("topedge_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
-    public static final RegistryObject<Block> TOP_BLOCK = registerBlock("top_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
+    public static final RegistryObject<Block> CEILING_EDGE_BLOCK = registerBlock("ceiling_edge_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
+    public static final RegistryObject<Block> CEILING_BLOCK = registerBlock("ceiling_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> HEXA_BLOCK = registerBlock("hexa_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> MAN_LEFT_BLOCK = registerBlock("manleft_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> MAN_RIGHT_BLOCK = registerBlock("manright_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
