@@ -9,12 +9,12 @@
     }
   },
   "pattern": [
-    "xxx",
+    "xox",
     "oxo",
-    "oox"
+    "xox"
   ],
   "result": {
     "count": 4,
-    "item": "timberframemod:uprframe_block"
+    "item": "timberframemod:hexa_block"
   }
 }

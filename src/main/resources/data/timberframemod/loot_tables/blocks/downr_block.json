@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "timberframemod:uplframe_block"
+          "name": "timberframemod:downr_block"
         }
       ]
     }

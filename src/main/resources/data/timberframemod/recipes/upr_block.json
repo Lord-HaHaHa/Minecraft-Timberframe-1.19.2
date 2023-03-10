@@ -11,10 +11,10 @@
   "pattern": [
     "xxx",
     "oxo",
-    "xoo"
+    "oox"
   ],
   "result": {
     "count": 4,
-    "item": "timberframemod:uplframe_block"
+    "item": "timberframemod:upr_block"
   }
 }

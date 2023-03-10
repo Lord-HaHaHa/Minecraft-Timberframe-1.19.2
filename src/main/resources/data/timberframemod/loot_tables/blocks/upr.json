@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "timberframemod:uprframe_block"
+          "name": "timberframemod:upr_block"
         }
       ]
     }
