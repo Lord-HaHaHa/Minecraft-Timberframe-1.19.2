@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "timberframemod:manleft_block"
+          "name": "timberframemod:man_left_block"
         }
       ]
     }
