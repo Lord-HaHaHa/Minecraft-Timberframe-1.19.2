@@ -30,9 +30,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> DOWN_BLOCK = registerBlock("down_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> UP_BLOCK = registerBlock("up_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> CROSS_BLOCK = registerBlock("cross_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
-    public static final RegistryObject<Block> SMALL_STRAIGHT_CROSS_BLOCK = registerBlock("smallstraightcross_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
-    public static final RegistryObject<Block> SMALL_CURVED_CROSS_BLOCK = registerBlock("smallcurvedcross_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
-    public static final RegistryObject<Block> RING_CROSS_BLOCK = registerBlock("ringcross_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
+    public static final RegistryObject<Block> CROSS_SMALL_STRAIGHT_BLOCK = registerBlock("cross_small_straight_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
+    public static final RegistryObject<Block> CROSS_SMALL_CURVED_BLOCK = registerBlock("cross_small_curved_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
+    public static final RegistryObject<Block> CROSS_RING_BLOCK = registerBlock("cross_ring_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> STRAIGHT_SINGLE_BLOCK = registerBlock("straight_single_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> STRAIGHT_DOUBLE_BLOCK = registerBlock("straight_double_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
     public static final RegistryObject<Block> UP_LEFT_BLOCK = registerBlock("upl_block", () -> new RotationalBlock(TimberframeMaterial) {}, ModCreativeModeTab.TIMBERFRAME_TAB);
