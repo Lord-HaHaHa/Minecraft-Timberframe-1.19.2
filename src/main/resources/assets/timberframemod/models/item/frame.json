@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"top": "timberframemod:item/frame",
+		"front": "timberframemod:item/frame",
+		"side": "timberframemod:item/frame",
+		"back": "timberframemod:item/frame"
+	}
+}
