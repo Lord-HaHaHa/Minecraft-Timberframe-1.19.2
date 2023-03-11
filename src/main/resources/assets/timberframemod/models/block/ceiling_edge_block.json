@@ -3,9 +3,9 @@
     "textures": {
         "up": "timberframemod:block/blank",
         "south": "timberframemod:block/blank",
-        "west": "timberframemod:block/toprightedge",
+        "west": "timberframemod:block/topleftedge",
         "east": "timberframemod:block/blank",
-        "north": "timberframemod:block/topleftedge",
+        "north": "timberframemod:block/toprightedge",
         "down": "timberframemod:block/blank",
         "particle": "timberframemod:block/blank"
     }
