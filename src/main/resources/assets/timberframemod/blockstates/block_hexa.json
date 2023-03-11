@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "timberframemod:block/block_hexa" },
+        "facing=north": { "model": "timberframemod:block/block_hexa", "y": 180 },
+        "facing=east":  { "model": "timberframemod:block/block_hexa", "y": 270 },
+        "facing=west":  { "model": "timberframemod:block/block_hexa", "y": 90 },
+        "facing=up":  { "model": "timberframemod:block/block_hexa" },
+        "facing=down":  { "model": "timberframemod:block/block_hexa" }
+    }
+}

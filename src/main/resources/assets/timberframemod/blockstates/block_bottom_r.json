@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "timberframemod:block/block_bottom_r" },
+        "facing=north": { "model": "timberframemod:block/block_bottom_r", "y": 180 },
+        "facing=east":  { "model": "timberframemod:block/block_bottom_r", "y": 270 },
+        "facing=west":  { "model": "timberframemod:block/block_bottom_r", "y": 90 },
+        "facing=up":  { "model": "timberframemod:block/block_bottom_r" },
+        "facing=down":  { "model": "timberframemod:block/block_bottom_r" }
+    }
+}

@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "timberframemod:block/block_straight_single" },
+        "facing=north": { "model": "timberframemod:block/block_straight_single", "y": 180 },
+        "facing=east":  { "model": "timberframemod:block/block_straight_single", "y": 270 },
+        "facing=west":  { "model": "timberframemod:block/block_straight_single", "y": 90 },
+        "facing=up":    { "model": "timberframemod:block/block_straight_single" },
+        "facing=down":  { "model": "timberframemod:block/block_straight_single" }
+    }
+}

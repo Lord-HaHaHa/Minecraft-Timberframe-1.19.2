@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=south": { "model": "timberframemod:block/block_ceiling_edge" },
+        "facing=north": { "model": "timberframemod:block/block_ceiling_edge", "y": 180 },
+        "facing=east":  { "model": "timberframemod:block/block_ceiling_edge", "y": 270 },
+        "facing=west":  { "model": "timberframemod:block/block_ceiling_edge", "y": 90 },
+        "facing=up":  { "model": "timberframemod:block/block_ceiling_edge", "x": 90  },
+        "facing=down":  { "model": "timberframemod:block/block_ceiling_edge", "x": 180  }
+    }
+}
