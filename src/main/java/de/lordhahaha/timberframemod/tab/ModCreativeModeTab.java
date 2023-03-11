@@ -1,5 +1,6 @@
-package de.lordhahaha.timberframemod.item;
+package de.lordhahaha.timberframemod.tab;
 
+import de.lordhahaha.timberframemod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
