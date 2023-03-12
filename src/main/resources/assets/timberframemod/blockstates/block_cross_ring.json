@@ -4,8 +4,6 @@
         "facing=south": { "model": "timberframemod:block/block_cross_ring" },
         "facing=north": { "model": "timberframemod:block/block_cross_ring", "y": 180 },
         "facing=east":  { "model": "timberframemod:block/block_cross_ring", "y": 270 },
-        "facing=west":  { "model": "timberframemod:block/block_cross_ring", "y": 90 },
-        "facing=up":  { "model": "timberframemod:block/block_cross_ring" },
-        "facing=down":  { "model": "timberframemod:block/block_cross_ring" }
+        "facing=west":  { "model": "timberframemod:block/block_cross_ring", "y": 90 }
     }
 }

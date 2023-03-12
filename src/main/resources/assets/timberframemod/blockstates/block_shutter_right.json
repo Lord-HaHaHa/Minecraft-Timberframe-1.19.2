@@ -4,8 +4,6 @@
         "facing=south": { "model": "timberframemod:block/block_shutter_right" },
         "facing=north": { "model": "timberframemod:block/block_shutter_right", "y": 180 },
         "facing=east":  { "model": "timberframemod:block/block_shutter_right", "y": 270 },
-        "facing=west":  { "model": "timberframemod:block/block_shutter_right", "y": 90 },
-        "facing=up":  { "model": "timberframemod:block/basic_block" },
-        "facing=down":  { "model": "timberframemod:block/basic_block" }
+        "facing=west":  { "model": "timberframemod:block/block_shutter_right", "y": 90 }
     }
 }

@@ -4,8 +4,6 @@
         "facing=south": { "model": "timberframemod:block/block_down" },
         "facing=north": { "model": "timberframemod:block/block_down", "y": 180 },
         "facing=east":  { "model": "timberframemod:block/block_down", "y": 270 },
-        "facing=west":  { "model": "timberframemod:block/block_down", "y": 90 },
-        "facing=up":  { "model": "timberframemod:block/block_down" },
-        "facing=down":  { "model": "timberframemod:block/block_down" }
+        "facing=west":  { "model": "timberframemod:block/block_down", "y": 90 }
     }
 }

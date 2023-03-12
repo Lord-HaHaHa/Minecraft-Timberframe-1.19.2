@@ -3,8 +3,6 @@
         "facing=south": { "model": "timberframemod:block/block_basic" },
         "facing=north": { "model": "timberframemod:block/block_basic", "y": 180 },
         "facing=east":  { "model": "timberframemod:block/block_basic", "y": 270 },
-        "facing=west":  { "model": "timberframemod:block/block_basic", "y": 90 },
-        "facing=up":  { "model": "timberframemod:block/block_basic" },
-        "facing=down":  { "model": "timberframemod:block/block_basic" }
+        "facing=west":  { "model": "timberframemod:block/block_basic", "y": 90 }
     }
 }
