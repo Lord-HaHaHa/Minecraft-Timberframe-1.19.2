@@ -10,11 +10,11 @@
   },
   "pattern": [
     "xxx",
-    "xox",
-    "xxx"
+    "xoo",
+    "xoo"
   ],
   "result": {
     "count": 4,
-    "item": "timberframemod:block_basic"
+    "item": "timberframemod:block_edge"
   }
 }
