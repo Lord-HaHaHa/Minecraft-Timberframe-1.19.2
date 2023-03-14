@@ -9,12 +9,12 @@
     }
   },
   "pattern": [
-    "xxx",
     "xox",
-    "xxx"
+    "oxo",
+    "xox"
   ],
   "result": {
     "count": 4,
-    "item": "timberframemod:block_basic"
+    "item": "timberframemod:block_cross_ring"
   }
 }
